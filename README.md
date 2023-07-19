@@ -1,4 +1,4 @@
-# credit-risk-classification
+# Credit Risk Classification
 ## Supervised Machine Learning
 ### Overview
 
